@@ -1,0 +1,55 @@
+*{
+    background-color: #cdffff;
+}
+.wrapper{
+    height: 100%;
+    width: 100% ;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+button{
+    background-color: #f4f4f4;
+    height:45px;
+    width: 45px;
+    border: 0px;
+    outline: 2px; 
+    margin: 15px;
+}
+.hr{
+    margin: 20px;
+    display: block;
+    border: 1px solid #d9dada;
+}
+form label{
+    display: block;
+}
+.form{
+    text-align: center;
+}
+
+input[type=number]{
+    background-color: white;
+    margin-top: 8px;
+    margin-bottom: 30px;
+    border: 2px solid #d9dada;
+}
+#result{
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+.result-div{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+.text {
+    text-align: center;
+}
